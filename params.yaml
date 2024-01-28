@@ -1,0 +1,8 @@
+Augmentation: True
+Image_size: [224, 224, 3]
+Batch_size: 16
+Include_top: False
+Epochs: 1
+Classes: 2
+Weights: imagenet
+Learning_rate: 0.01
